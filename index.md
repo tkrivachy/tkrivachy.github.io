@@ -3,6 +3,7 @@ layout: home
 title: "Home"
 ---
 
-This theme allods an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
+I am fascinated by quantum information, machine learning, networks and primarily, the interface of these three. I'm particularly interested in using neural networks for understanding quantum phenomena on networks better.
 
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+Currently, I work as a postdoc in Marcus Huber's group at Atominstitut, TU Wien.
+From July 2023 I will be moving on as a Postdoc.Mobility fellow to ICFO, Barcelona.
