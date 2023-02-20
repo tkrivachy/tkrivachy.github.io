@@ -17,6 +17,7 @@ social:
 - {icon: 'github', link: 'https://github.com/tkrivachy'}
 - {icon: 'twitter', link: 'https://twitter.com/KrivachyTamas'}
 - {icon: 'linkedin', link: 'https://linkedin.com/in/tamás-kriváchy-36370673/'}
+- {icon: 'mastadon', link: 'https://qubit-social.xyz/@KrivachyTamas'}
 
 contacts:
 - {name: 'Tamás Kriváchy', title: 'postdoc', department: 'Quantum Information and Thermodynamics ', institution: 'Atominstitut, TU Wien', institution_address: 'Stadionallee 2, 1020 Wien, Austria', email: 'firstname.lastname@gmail.com (no accents)', image: 'assets/img/contact.jpg'}
