@@ -7,3 +7,4 @@ I am fascinated by quantum information, machine learning, networks and primarily
 
 Currently, I work as a postdoc in Marcus Huber's group at Atominstitut, TU Wien.
 From July 2023 I will be moving on as a Postdoc.Mobility fellow to ICFO, Barcelona.
+
