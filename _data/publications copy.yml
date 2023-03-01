@@ -1,0 +1,13 @@
+featured:
+- {name: 'Tamás Kriváchy, Yu Cai, Daniel Cavalcanti, Arash Tavakoli, Nicolas Gisin & Nicolas Brunner, A neural network oracle for quantum nonlocality problems in networks, npj Quantum Information 6, 70 (2020)', url: 'https://www.nature.com/articles/s41534-020-00305-x'}
+- {name: 'Paolo Abiuso*, Tamás Kriváchy*, Emanuel-Cristian Boghiu, Marc-Olivier Renou, Alejandro Pozas-Kerstjens, and Antonio Acín, Single-photon nonlocality in quantum networks, PRR 4, L012041 (2022)', url: 'https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.L012041'}
+- {name: 'Antoine Girardin, Nicolas Brunner, Tamás Kriváchy, Building separable approximations for quantum states via neural networks, PRR 4, 023238 (2022)', url: 'https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.023238'}
+- {name: 'Tamás Kriváchy, Florian Fröwis, Nicolas Brunner, Tight steering inequalities from generalized entropic uncertainty relations, PRA 98, 062111 (2018)', url: 'https://arxiv.org/abs/1807.09603'}
+
+index:
+- {name: 'Tamás Kriváchy, Yu Cai, Daniel Cavalcanti, Arash Tavakoli, Nicolas Gisin & Nicolas Brunner, A neural network oracle for quantum nonlocality problems in networks, npj Quantum Information 6, 70 (2020)', url: 'https://www.nature.com/articles/s41534-020-00305-x'}
+- {name: 'Paolo Abiuso*, Tamás Kriváchy*, Emanuel-Cristian Boghiu, Marc-Olivier Renou, Alejandro Pozas-Kerstjens, and Antonio Acín, Single-photon nonlocality in quantum networks, PRR 4, L012041 (2022)', url: 'https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.L012041'}
+- {name: 'Tamás Kriváchy, Yu Cai, Joseph Bowles, Daniel Cavalcanti, Nicolas Brunner, High-speed batch processing of semidefinite programs with feedforward neural networks, NJP 23, 103034 (2021)', url: 'https://iopscience.iop.org/article/10.1088/1367-2630/ac2d72/meta'}
+- {name: 'Tamás Kriváchy, Florian Fröwis, Nicolas Brunner, Tight steering inequalities from generalized entropic uncertainty relations, PRA 98, 062111 (2018)', url: 'https://arxiv.org/abs/1807.09603'}
+- {name: 'Antoine Girardin, Nicolas Brunner, Tamás Kriváchy, Building separable approximations for quantum states via neural networks, PRR 4, 023238 (2022)', url: 'https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.023238'}
+- {name: 'Tamás Kriváchy, Krzysztof T Kaczmarek, Mikael Afzelius, Jean Etesse, Géraldine Haack, Proposal for spin squeezing in rare-earth-ion-doped crystals with a four-color scheme, PRA 107, 013108', url: 'https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.013108'}
