@@ -17,7 +17,7 @@ layout: default
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Supervised students</h3>
     {% for student in site.data.settings.supervision %}
-      <p>{{ supervision.name }}, {{supervision.location}}, {{supervision.type}} ({{supervision.year}})</p>
+      <p>{{ student.name }}, {{student.location}}, {{student.type}} ({{student.year}})</p>
     {% endfor %}
   </div>
 </div>
