@@ -1,3 +1,7 @@
+# My website
+
+This is my academic website repo. I used this academic Jekyll theme. I'm leaving in the readme of the theme as a reference for myself. :)
+
 # academic
 
 ### A Jekyll theme for academia

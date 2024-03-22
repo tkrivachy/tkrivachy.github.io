@@ -13,6 +13,11 @@ courses:
 - {name: 'Kvantum cirkáló', link: 'https://medium.com/kvantumcirkalo'}
 #- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
 
+supervision:
+- {name: 'Martin Kerschbaumer', location: 'TU Wien, ICFO', type: 'MSc semester project, MSc thesis', year: '2023-2024'}
+- {name: 'Javier Esteras Maza', location: 'TU Wien', type: 'BSc thesis', year: '2021'}
+- {name: 'Antoine Girardin', location: 'University of Geneva', type: 'MSc thesis', year: '2020-2021'}
+
 social:
 - {icon: 'github', link: 'https://github.com/tkrivachy'}
 - {icon: 'google', link: 'https://scholar.google.com/citations?hl=en&user=lYcJXqoAAAAJ'}
@@ -21,4 +26,4 @@ social:
 - {icon: 'mastodon', link: 'https://qubit-social.xyz/@KrivachyTamas'}
 
 contacts:
-- {name: 'Tamás Kriváchy', title: 'postdoc', department: 'Quantum Information and Thermodynamics ', institution: 'Atominstitut, TU Wien', institution_address: 'Stadionallee 2, 1020 Wien, Austria', email: 'firstname.lastname@gmail.com (no accents)', image: 'assets/img/contact.jpg'}
+- {name: 'Tamás Kriváchy', title: 'postdoc', department: 'Quantum Information and Thermodynamics ', institution: 'ICFO - Institut de Ciencies Fotoniques (The Institute of Photonic Sciences)', institution_address: 'Av. Carl Friedrich Gauss, 3, 08860 Castelldefels (Barcelona), Spain', email: 'firstname.lastname@gmail.com (no accents)', image: 'assets/img/contact.jpg'}
