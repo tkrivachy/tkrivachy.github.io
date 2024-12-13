@@ -3,6 +3,7 @@ featured:
 - {name: 'A neural network oracle for quantum nonlocality problems in networks', info: ' Tamás Kriváchy, Yu Cai, Daniel Cavalcanti, Arash Tavakoli, Nicolas Gisin & Nicolas Brunner, npj Quantum Information 6, 70 (2020)', url: 'https://www.nature.com/articles/s41534-020-00305-x'}
 - {name: 'Single-photon nonlocality in quantum networks', info: ' Paolo Abiuso*, Tamás Kriváchy*, Emanuel-Cristian Boghiu, Marc-Olivier Renou, Alejandro Pozas-Kerstjens, and Antonio Acín, PRR 4, L012041 (2022)', url: 'https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.L012041'}
 - {name: 'Building separable approximations for quantum states via neural network', info: ' Antoine Girardin, Nicolas Brunner, Tamás Kriváchy, PRR 4, 023238 (2022)', url: 'https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.023238'}
+- {name: 'Tight steering inequalities from generalized entropic uncertainty relations', info: ' Tamás Kriváchy, Florian Fröwis, Nicolas Brunner, PRA 98, 062111 (2018)', url: 'https://arxiv.org/abs/1807.09603'}
 
 index:
 - {name: 'Topologically Robust Quantum Network Nonlocality', info: ' Sadra Boreiri*, Tamas Krivachy*, Pavel Sekatski*, Antoine Girardin, Nicolas Brunner, arXiv:2406.09510 (2024)', url: 'https://arxiv.org/abs/2406.09510'}
