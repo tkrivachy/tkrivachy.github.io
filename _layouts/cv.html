@@ -35,6 +35,7 @@ layout: default
       </div>
       <div class="col-md-10">
         {% for section in site.data.cv.invitedtalks %}
+          <p>{{ section.title }}</p>
           <p>{{ section.description }}</p>
         {% endfor %}
       </div>
@@ -45,6 +46,7 @@ layout: default
       </div>
       <div class="col-md-10">
         {% for section in site.data.cv.contributedtalks %}
+          <p>{{ section.title }}</p>
           <p>{{ section.description }}</p>
         {% endfor %}
       </div>
