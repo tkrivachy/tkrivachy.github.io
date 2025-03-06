@@ -1,11 +1,17 @@
-- description: 'Topologically robust network nonlocality, 8th Quantum Information in Spain Conference (ICE-8), 2023, Santiago de Compostela, Spain.'
+- title: 'Topologically robust network nonlocality'
+  description: '8th Quantum Information in Spain Conference (ICE-8), 2023, Santiago de Compostela, Spain'
 
-- description: 'Neural network ansatz for quantum network tasks, Physics and Machine Learning, 2023 Obergurgl, Austria'
+- title: 'Neural network ansatz for quantum network tasks'
+  description: 'Physics and Machine Learning, 2023, Obergurgl, Austria'
 
-- description: 'Constructive neural network models for studying Bell-nonlocality and entanglement, 7th Quantum Information in Spain Conference (ICE-7), 2022, Granada, Spain.'
+- title: 'Constructive neural network models for studying Bell-nonlocality and entanglement'
+  description: '7th Quantum Information in Spain Conference (ICE-7), 2022, Granada, Spain'
 
-- description: "A neural network oracle for quantum nonlocality problems in networks\nInternational Conference for Young Quantum Information Scientists (YQIS) 2019, Gdansk, Poland."
+- title: 'A neural network oracle for quantum nonlocality problems in networks'
+  description: 'International Conference for Young Quantum Information Scientists (YQIS) 2019, Gdansk, Poland'
 
-- description: "Optimal EPR steering inequalities from generalized entropic uncertainty relations.\nInternational Conference for Young Quantum Information Scientists (YQIS) 2018, Vienna, Austria."
+- title: 'Optimal EPR steering inequalities from generalized entropic uncertainty relations.'
+  description: 'International Conference for Young Quantum Information Scientists (YQIS) 2018, Vienna, Austria'
 
-- description: 'Steering as a quantum memory game: Deriving optimal Rényi entropy-based steering inequalities, Junior QSIT meeting 2018, Switzerland'
+- title: 'Steering as a quantum memory game: Deriving optimal Rényi entropy-based steering inequalities'
+  description: 'Junior QSIT meeting 2018, Passugg, Switzerland'
