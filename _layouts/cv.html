@@ -29,5 +29,25 @@ layout: default
         {% endfor %}
       </div>
     </div>
+    <div class="row g-5 mb-5">
+      <div class="col-md-2">
+        <h4>Invited talks</h4>
+      </div>
+      <div class="col-md-10">
+        {% for section in site.data.cv.invitedtalks %}
+          <p>{{ section.description }}</p>
+        {% endfor %}
+      </div>
+    </div>
+    <div class="row g-5 mb-5">
+      <div class="col-md-2">
+        <h4>Contributed talks</h4>
+      </div>
+      <div class="col-md-10">
+        {% for section in site.data.cv.contributedtalks %}
+          <p>{{ section.description }}</p>
+        {% endfor %}
+      </div>
+    </div>
   </div>
 </div>
