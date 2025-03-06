@@ -23,7 +23,6 @@ supervision:
 
 social:
 - {icon: 'github', link: 'https://github.com/tkrivachy'}
-- {icon: 'google', link: 'https://scholar.google.com/citations?hl=en&user=lYcJXqoAAAAJ'}
 - {icon: 'twitter', link: 'https://twitter.com/KrivachyTamas'}
 - {icon: 'linkedin', link: 'https://linkedin.com/in/tamás-kriváchy-36370673/'}
 
