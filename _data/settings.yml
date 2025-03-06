@@ -14,6 +14,8 @@ courses:
 #- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
 
 supervision:
+- {name: 'Lorenzo Caramelli', location: 'ICFO', type: 'MSc thesis', year: '2025'}
+- {name: 'Ían Paton Vazquez', location: 'ICFO', type: 'BSc Internship', year: '2025'}
 - {name: 'Matías Víner', location: 'ICFO', type: 'BSc thesis', year: '2024'}
 - {name: 'Martin Kerschbaumer', location: 'TU Wien, ICFO', type: 'MSc semester project, MSc thesis', year: '2023-2024'}
 - {name: 'Javier Esteras Maza', location: 'TU Wien', type: 'BSc thesis', year: '2021'}
