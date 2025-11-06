@@ -22,9 +22,8 @@ supervision:
 - {name: 'Antoine Girardin', location: 'University of Geneva', type: 'MSc thesis', year: '2020-2021'}
 
 social:
-- {icon: 'github', link: 'https://github.com/tkrivachy'}
-- {icon: 'twitter', link: 'https://twitter.com/KrivachyTamas'}
 - {icon: 'linkedin', link: 'https://linkedin.com/in/tamás-kriváchy-36370673/'}
+- {icon: 'github', link: 'https://github.com/tkrivachy'}
 
 contacts:
 - {name: 'Tamás Kriváchy', title: 'postdoc', department: 'Quantum Information Theory', institution: 'ICFO - Institut de Ciencies Fotoniques (The Institute of Photonic Sciences)', institution_address: 'Av. Carl Friedrich Gauss, 3, 08860 Castelldefels (Barcelona), Spain', email: 'firstname.lastname@gmail.com (no accents)', image: 'assets/img/contact.jpg'}
