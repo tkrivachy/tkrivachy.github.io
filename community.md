@@ -40,3 +40,21 @@ In general, I aim at reviewing at least as many articles as I published. In the 
 {% for journal in site.data.peer_review %}
 - {{ journal.journal }}: {% for review in journal.reviews %}{{ review.year }}{% if review.count > 1 %} (×{{ review.count }}){% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}
 {% endfor %}
+
+<br>
+
+## Invited talks
+
+{% for section in site.data.cv.invitedtalks %}
+- {{ section.title }}  
+  {{ section.description }}
+{% endfor %}
+
+<br>
+
+## Contributed talks
+
+{% for section in site.data.cv.contributedtalks %}
+- {{ section.title }}  
+  {{ section.description }}
+{% endfor %}
