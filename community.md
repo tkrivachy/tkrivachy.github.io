@@ -13,18 +13,18 @@ See more on [SciRate](https://scirate.com/arxiv/2511.01675) or [arXiv](https://a
 
 ### Security vulnerability
 
-In 2024 I discovered and reported a critical security vulnerability in the cryptocurrency exchange of Kraken, which put the funds of users at risk.
+In 2024, I discovered and reported a critical security vulnerability in the cryptocurrency exchange Kraken, which put the funds of users at risk.
 
 ## Committee, Jury memberships
 
 {% for committee in site.data.committees %}
-- **{{ committee.name }}** - {{ committee.role }} ({{ committee.year }}){% if committee.organization %}, {{ committee.organization }}{% endif %}
+- {{ committee.name }} - {{ committee.role }} ({{ committee.year }}){% if committee.organization %}, {{ committee.organization }}{% endif %}
 {% endfor %}
 
 ## Peer review
 
-In general, I aim at reviewing at least as many articles as I published. In the spirit of transparency (and a lack of a central peer review tracking system), I am tracking my peer reviews here.
+In general, I aim at reviewing at least as many articles as I published. In the spirit of transparency (and due to the lack of a commonly used peer review tracking system), I am tracking my peer reviews here.
 
-{% for review in site.data.peer_review %}
-- **{{ review.journal }}** ({{ review.year }}){% if review.count > 1 %} - {{ review.count }} reviews{% endif %}
+{% for journal in site.data.peer_review %}
+- **{{ journal.journal }}**: {% for review in journal.reviews %}{{ review.year }}{% if review.count > 1 %} (×{{ review.count }}){% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}
 {% endfor %}
