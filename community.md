@@ -25,24 +25,6 @@ In 2024, I discovered and reported a critical security vulnerability in the cryp
 
 <br>
 
-## Committee, Jury memberships
-
-{% for committee in site.data.committees %}
-- {{ committee.name }} - {{ committee.role }} ({{ committee.year }}){% if committee.organization %}, {{ committee.organization }}{% endif %}
-{% endfor %}
-
-<br>
-
-## Peer review
-
-In general, I aim at reviewing at least as many articles as I published. In the spirit of transparency (and due to the lack of a commonly used peer review tracking system), I am tracking my peer reviews here.
-
-{% for journal in site.data.peer_review %}
-- {{ journal.journal }}: {% for review in journal.reviews %}{{ review.year }}{% if review.count > 1 %} (×{{ review.count }}){% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}
-{% endfor %}
-
-<br>
-
 ## Invited talks
 
 {% for section in site.data.cv.invitedtalks %}
@@ -57,4 +39,22 @@ In general, I aim at reviewing at least as many articles as I published. In the 
 {% for section in site.data.cv.contributedtalks %}
 - {{ section.title }}  
   {{ section.description }}
+{% endfor %}
+
+<br>
+
+## Committee, Jury memberships
+
+{% for committee in site.data.committees %}
+- {{ committee.name }} - {{ committee.role }} ({{ committee.year }}){% if committee.organization %}, {{ committee.organization }}{% endif %}
+{% endfor %}
+
+<br>
+
+## Peer review
+
+In general, I aim at reviewing at least as many articles as I published. In the spirit of transparency (and due to the lack of a commonly used peer review tracking system), I am tracking my peer reviews here.
+
+{% for journal in site.data.peer_review %}
+- {{ journal.journal }}: {% for review in journal.reviews %}{{ review.year }}{% if review.count > 1 %} (×{{ review.count }}){% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}
 {% endfor %}
