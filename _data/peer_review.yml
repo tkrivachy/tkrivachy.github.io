@@ -1,0 +1,10 @@
+- {journal: 'Quantum', year: '2025', count: 2}
+- {journal: 'Physical Review A', year: '2025', count: 1}
+- {journal: 'Physical Review A', year: '2024', count: 1}
+- {journal: 'Quantum', year: '2023', count: 2}
+- {journal: 'Quantum Information Processing', year: '2023', count: 1}
+- {journal: 'Physical Review A', year: '2023', count: 1}
+- {journal: 'Annalen der Physik', year: '2023', count: 1}
+- {journal: 'IEEE ISIT', year: '2020', count: 1}
+# Add more peer review entries here following the same format
+# You can use 'count' to specify number of reviews for that journal/year
