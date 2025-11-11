@@ -9,9 +9,10 @@ title: "Community"
 
 In 2025, while checking the proofs prior to publication of one of our recent works, I realized something was off in automatically generated references in my bibliography. With a bit of digging, I realized that the problem is systematic, and affect all online-only Springer Nature articles (those using article numbers), leading to an incredible number of incorrect references in the scientific literature. In particular Article Number 1s were accidentally getting references instead of other articles, most probably due to an error in the SpringerLink API. The issue has most probably been around since 2011 and affects millions of authors.
 
-<figure>
-  <img src="assets/img/nature_communications_crossref_2025_individual.png" alt="Incorrect citation example" style="max-width:400px;">
-  <figcaption>Example of incorrect citation in Nature Communications (2025). Comparison articles were published on same day as Article #1</figcaption>
+<figure style="text-align:center;">
+  <img src="assets/img/nature_communications_crossref_2025_individual.png" alt="Incorrect citation example" style="max-width:400px; margin:auto; display:block;">
+  <figcaption>
+Example of incorrect citation in Nature Communications (2025). Comparison articles were published on same day as Article #1</figcaption>
 </figure>
 
 
@@ -22,12 +23,14 @@ See more on [SciRate](https://scirate.com/arxiv/2511.01675) or [arXiv](https://a
 In 2024, I discovered and reported a critical security vulnerability in the cryptocurrency exchange Kraken, which put the funds of users at risk.
 
 <br>
-<br>
+
 ## Committee, Jury memberships
 
 {% for committee in site.data.committees %}
 - {{ committee.name }} - {{ committee.role }} ({{ committee.year }}){% if committee.organization %}, {{ committee.organization }}{% endif %}
 {% endfor %}
+
+<br>
 
 ## Peer review
 
