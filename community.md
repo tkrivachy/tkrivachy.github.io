@@ -17,7 +17,7 @@ In 2025, while checking the proofs prior to publication of one of our recent wor
 </figure>
 
 
-See more on [SciRate](https://scirate.com/arxiv/2511.01675) or [arXiv](https://arxiv.org/abs/2511.01675).
+Read about it at [Retraction Watch](https://retractionwatch.com/2025/11/11/bug-in-springer-nature-metadata-may-be-causing-significant-systemic-citation-inflation/) or see the details on [SciRate](https://scirate.com/arxiv/2511.01675) or [arXiv](https://arxiv.org/abs/2511.01675).
 
 ### Security vulnerability
 
