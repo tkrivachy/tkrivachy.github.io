@@ -19,6 +19,9 @@ In 2025, while checking the proofs prior to publication of one of our recent wor
 
 Read about it at [Retraction Watch](https://retractionwatch.com/2025/11/11/bug-in-springer-nature-metadata-may-be-causing-significant-systemic-citation-inflation/), [Chemistry World](https://www.chemistryworld.com/news/why-are-the-first-papers-of-some-online-only-journals-cited-significantly-more/4022504.article), [Il Foglio](https://www.ilfoglio.it/scienza/2025/11/21/news/un-piccolo-fraintendimento-puo-alterare-la-distribuzione-delle-citazioni-scientifiche-su-scala-globale-8346325/) (IT), or see the details on [SciRate](https://scirate.com/arxiv/2511.01675) or [arXiv](https://arxiv.org/abs/2511.01675).
 
+In March 2026, Crossref updated their reference matching algo in order to accomodate this error. See [their post on it here.](https://community.crossref.org/t/improving-our-reference-matching-strategy-to-reduce-incorrect-citation-links/15417)
+
+
 ### Security vulnerability
 
 In 2024, I discovered and reported a critical security vulnerability in the cryptocurrency exchange Kraken, which put the funds of users at risk.
