@@ -4,6 +4,7 @@
     - {year: '2023', count: 2}
 - journal: 'Physical Review A'
   reviews:
+    - {year: '2026', count: 1}
     - {year: '2025', count: 1}
     - {year: '2024', count: 1}
     - {year: '2023', count: 1}
