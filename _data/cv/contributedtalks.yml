@@ -1,11 +1,14 @@
 - title: 'Device Independent Quantum Key Distribution with a Single Measurement per Site'
-  description: 'Quantum Physics and Logic, Amsterdam, Netherlands (2026)'
+  description: 'Foundations of Quantum Technologies, Cambridge, UK (2026)'
+
+- title: 'Device Independent Quantum Key Distribution with a Single Measurement per Site'
+  description: 'Quantum Physics and Logic 2026, Amsterdam, Netherlands (2026)'
 
 - title: 'Massive Citation Count Distortion due to Incorrect Citation Association for Articles in Online-Only Springer Nature Journals'
   description: '12th International Conference on Computational Social Science, Burlington, Vermont USA *(online attendance)* (2026)'
 
 - title: 'Bell nonlocality without inputs: the path from theory to experiments and applications'
-  description: 'Causalworlds, Grenoble, France (2026)'
+  description: 'Causalworlds 2026, Grenoble, France (2026)'
 
 - title: 'Massive Citation Count Distortion due to Incorrect Citation Association for Articles in Online-Only Springer Nature Journals'
   description: 'NetSci Satellite Workshop on Networks in Science of Science, Boston, Massachusetts USA (2026)'
@@ -17,7 +20,7 @@
   description: 'XL Trobades Científiques de la Mediterrània-Josep Miquel Vidal: Ciència i Tecnologies Quàntiques a la Mediterrània, Maó (Illes Balears), Spain (2025)'
 
 - title: 'Limitations of causal models of the triangle network, in the symmetric subspace and beyond'
-  description: 'Causalworlds, Waterloo, Canada *(online attendance)*(2024)'
+  description: 'Causalworlds 2024, Waterloo, Canada *(online attendance)*(2024)'
 
 - title: 'Topologically robust network nonlocality'
   description: '8th Quantum Information in Spain Conference (ICE-8), Santiago de Compostela, Spain (2023)'
@@ -29,10 +32,10 @@
   description: '7th Quantum Information in Spain Conference (ICE-7), Granada, Spain (2022)'
 
 - title: 'A neural network oracle for quantum nonlocality problems in networks'
-  description: 'International Conference for Young Quantum Information Scientists (YQIS), Gdansk, Poland (2019)'
+  description: 'International Conference for Young Quantum Information Scientists (YQIS) 2019, Gdansk, Poland (2019)'
 
 - title: 'Optimal EPR steering inequalities from generalized entropic uncertainty relations.'
-  description: 'International Conference for Young Quantum Information Scientists (YQIS), Vienna, Austria (2018)'
+  description: 'International Conference for Young Quantum Information Scientists (YQIS) 2018, Vienna, Austria (2018)'
 
 - title: 'Steering as a quantum memory game: Deriving optimal Rényi entropy-based steering inequalities'
   description: 'Junior QSIT meeting, Passugg, Switzerland (2018)'
