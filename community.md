@@ -2,6 +2,9 @@
 layout: page
 title: "Community"
 ---
+## Research-inspired game
+
+Head to [sudocuble.com](https://sudocuble.com) for your daily sudoku-on-a-cube puzzle that was inspired by our research of correlations on networks.
 
 ## Ethical Reporting
 
