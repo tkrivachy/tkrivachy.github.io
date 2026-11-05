@@ -8,7 +8,7 @@ layout: default
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Science outreach</h3>
     {% for course in site.data.settings.courses %}
-      <p><a href="{{ course.link}}">{{ course.name }}</a>{% if course.description %}: {{ course.description }}{% endif %}</p>
+      <p><a href="{{ course.link}}" target="_blank" rel="noopener noreferrer">{{ course.name }}</a>{% if course.description %}: {{ course.description }}{% endif %}</p>
     {% endfor %}
   </div>
 </div>
@@ -27,7 +27,7 @@ layout: default
 <div class="row g-5 mb-5">
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Games</h3>
-    <p>Head to <a href="https://sudocuble.com">sudocuble.com</a> for your daily sudoku-on-a-cube puzzle that was inspired by our research of correlations on networks.</p>
+    <p>Head to <a href="https://sudocuble.com" target="_blank" rel="noopener noreferrer">sudocuble.com</a> for your daily sudoku-on-a-cube puzzle that was inspired by our research of correlations on networks.</p>
   </div>
 </div>
 
